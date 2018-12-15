@@ -78,6 +78,3 @@ end
 
 
 # binding.pry
-
-
-end
